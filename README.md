@@ -23,6 +23,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | ✅ Accepted |<!-- id:longest-common-prefix -->
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Hash Table, String, Greedy | ✅ Accepted |<!-- id:longest-palindrome -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | ✅ Accepted |<!-- id:reverse-string -->
+
 
 
 
