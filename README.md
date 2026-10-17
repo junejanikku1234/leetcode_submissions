@@ -35,6 +35,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | ✅ Accepted |<!-- id:majority-element -->
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | ✅ Accepted |<!-- id:missing-number -->
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | Array, Bit Manipulation | ✅ Accepted |<!-- id:single-number -->
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:happy-number -->
+
 
 
 
