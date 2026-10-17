@@ -57,6 +57,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | ✅ Accepted |<!-- id:maximum-average-subarray-i -->
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:flood-fill -->
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle-ii -->
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-linked-list -->
+
 
 
 
