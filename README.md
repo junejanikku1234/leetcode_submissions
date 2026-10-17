@@ -18,6 +18,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | Easy | Hash Table, String, Greedy, Sorting, Counting | ✅ Accepted |<!-- id:minimum-deletions-for-at-most-k-distinct-characters -->
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:contains-duplicate -->
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array, Simulation | ✅ Accepted |<!-- id:concatenation-of-array -->
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array, Matrix | ✅ Accepted |<!-- id:richest-customer-wealth -->
+
 
 
 
