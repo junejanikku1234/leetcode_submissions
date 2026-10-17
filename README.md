@@ -56,6 +56,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:lemonade-change -->
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | ✅ Accepted |<!-- id:maximum-average-subarray-i -->
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:flood-fill -->
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle-ii -->
+
 
 
 
