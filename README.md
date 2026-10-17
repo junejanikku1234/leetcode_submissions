@@ -24,6 +24,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Hash Table, String, Greedy | ✅ Accepted |<!-- id:longest-palindrome -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | ✅ Accepted |<!-- id:reverse-string -->
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:find-all-anagrams-in-a-string -->
+
 
 
 
