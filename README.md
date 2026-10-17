@@ -66,6 +66,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | ✅ Accepted |<!-- id:longest-consecutive-sequence -->
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | ⏳ Wrong Answer |<!-- id:reverse-integer -->
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
+
 
 
 
