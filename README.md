@@ -50,6 +50,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm | ✅ Accepted |<!-- id:find-the-index-of-the-first-occurrence-in-a-string -->
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | ✅ Accepted |<!-- id:first-unique-character-in-a-string -->
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:word-pattern -->
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:isomorphic-strings -->
+
 
 
 
