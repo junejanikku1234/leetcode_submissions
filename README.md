@@ -61,6 +61,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:merge-two-sorted-lists -->
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | ✅ Accepted |<!-- id:maximum-subarray -->
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | ✅ Accepted |<!-- id:middle-of-the-linked-list -->
+| 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | Array, Hash Table, Prefix Sum | ✅ Accepted |<!-- id:subarray-sum-equals-k -->
+
 
 
 
