@@ -29,6 +29,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | Array, Hash Table, Sliding Window | ✅ Accepted |<!-- id:contains-duplicate-ii -->
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:squares-of-a-sorted-array -->
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:merge-sorted-array -->
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:binary-search -->
+
 
 
 
