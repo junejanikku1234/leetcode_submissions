@@ -25,6 +25,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | ✅ Accepted |<!-- id:reverse-string -->
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:find-all-anagrams-in-a-string -->
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
+
 
 
 
