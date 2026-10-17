@@ -32,6 +32,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:binary-search -->
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:search-insert-position -->
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:intersection-of-two-arrays -->
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | ✅ Accepted |<!-- id:majority-element -->
+
 
 
 
