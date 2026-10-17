@@ -47,6 +47,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:best-time-to-buy-and-sell-stock -->
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-array -->
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | ✅ Accepted |<!-- id:valid-palindrome -->
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm | ✅ Accepted |<!-- id:find-the-index-of-the-first-occurrence-in-a-string -->
+
 
 
 
