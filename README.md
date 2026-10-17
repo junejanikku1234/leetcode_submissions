@@ -54,6 +54,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | ✅ Accepted |<!-- id:kth-largest-element-in-a-stream -->
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Array, Heap (Priority Queue) | ✅ Accepted |<!-- id:last-stone-weight -->
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:lemonade-change -->
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | ✅ Accepted |<!-- id:maximum-average-subarray-i -->
+
 
 
 
