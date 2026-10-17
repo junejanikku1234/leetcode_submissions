@@ -27,6 +27,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:find-all-anagrams-in-a-string -->
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle -->
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | Array, Hash Table, Sliding Window | ✅ Accepted |<!-- id:contains-duplicate-ii -->
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:squares-of-a-sorted-array -->
+
 
 
 
