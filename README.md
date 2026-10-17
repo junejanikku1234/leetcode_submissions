@@ -55,6 +55,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Array, Heap (Priority Queue) | ✅ Accepted |<!-- id:last-stone-weight -->
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | Array, Greedy | ✅ Accepted |<!-- id:lemonade-change -->
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | ✅ Accepted |<!-- id:maximum-average-subarray-i -->
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:flood-fill -->
+
 
 
 
