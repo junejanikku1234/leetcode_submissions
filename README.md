@@ -41,6 +41,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:valid-perfect-square -->
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:arranging-coins -->
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:maximum-depth-of-binary-tree -->
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
+
 
 
 
