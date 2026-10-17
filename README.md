@@ -42,6 +42,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:arranging-coins -->
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:maximum-depth-of-binary-tree -->
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:minimum-depth-of-binary-tree -->
+
 
 
 
