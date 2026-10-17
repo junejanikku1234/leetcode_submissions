@@ -60,6 +60,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-linked-list -->
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:merge-two-sorted-lists -->
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Array, Divide and Conquer, Dynamic Programming | ✅ Accepted |<!-- id:maximum-subarray -->
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Linked List, Two Pointers | ✅ Accepted |<!-- id:middle-of-the-linked-list -->
+
 
 
 
