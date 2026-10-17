@@ -52,6 +52,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:word-pattern -->
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:isomorphic-strings -->
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | ✅ Accepted |<!-- id:kth-largest-element-in-a-stream -->
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Array, Heap (Priority Queue) | ✅ Accepted |<!-- id:last-stone-weight -->
+
 
 
 
