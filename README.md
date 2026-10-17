@@ -65,7 +65,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting | ✅ Accepted |<!-- id:sort-characters-by-frequency -->
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | ✅ Accepted |<!-- id:longest-consecutive-sequence -->
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | ⏳ Wrong Answer |<!-- id:reverse-integer -->
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | ⏳ Compile Error |<!-- id:reverse-integer -->
+
 
 
 
