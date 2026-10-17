@@ -38,6 +38,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:happy-number -->
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | Array, Binary Search, Matrix | ✅ Accepted |<!-- id:count-negative-numbers-in-a-sorted-matrix -->
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | ✅ Accepted |<!-- id:first-bad-version -->
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:valid-perfect-square -->
+
 
 
 
