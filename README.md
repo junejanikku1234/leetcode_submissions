@@ -43,6 +43,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:maximum-depth-of-binary-tree -->
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Array, Stack, Simulation | ✅ Accepted |<!-- id:baseball-game -->
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:minimum-depth-of-binary-tree -->
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:invert-binary-tree -->
+
 
 
 
