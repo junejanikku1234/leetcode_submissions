@@ -20,6 +20,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array, Simulation | ✅ Accepted |<!-- id:concatenation-of-array -->
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Array, Matrix | ✅ Accepted |<!-- id:richest-customer-wealth -->
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | String, Stack, Bracket Sequences | ✅ Accepted |<!-- id:valid-parentheses -->
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | ✅ Accepted |<!-- id:longest-common-prefix -->
+
 
 
 
