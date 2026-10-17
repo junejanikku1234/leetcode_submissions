@@ -17,6 +17,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | Medium | Array, Dynamic Programming, Knapsack Problem, Complete Knapsack | ✅ Accepted |<!-- id:coin-change-ii -->
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | Easy | Hash Table, String, Greedy, Sorting, Counting | ✅ Accepted |<!-- id:minimum-deletions-for-at-most-k-distinct-characters -->
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:contains-duplicate -->
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Array, Simulation | ✅ Accepted |<!-- id:concatenation-of-array -->
+
 
 
 
