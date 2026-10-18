@@ -67,7 +67,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | ⏳ Wrong Answer |<!-- id:reverse-integer -->
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
-| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | Math | ⏳ Wrong Answer |<!-- id:perfect-number -->
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | Math | ✅ Accepted |<!-- id:perfect-number -->
+
 
 
 
