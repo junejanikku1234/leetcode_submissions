@@ -68,6 +68,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | ⏳ Wrong Answer |<!-- id:reverse-integer -->
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | Easy | Math | ✅ Accepted |<!-- id:perfect-number -->
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | ✅ Accepted |<!-- id:count-primes -->
+
 
 
 
